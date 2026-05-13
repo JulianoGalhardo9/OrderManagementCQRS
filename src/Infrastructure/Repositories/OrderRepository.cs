@@ -24,4 +24,10 @@ public class OrderRepository : IOrderRepository
     {
         return await _context.Orders.FirstOrDefaultAsync(o => o.Id == id);
     }
+
+    public async Task UpdateAsync(Order order)
+{
+    _context.Orders.Update(order);
+    await _context.SaveChangesAsync();
+}
 }
