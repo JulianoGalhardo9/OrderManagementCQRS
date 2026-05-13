@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "JBV+tEc0wHQ=",
+  "dgSpecHash": "jzEsVciY41Y=",
   "success": true,
   "projectFilePath": "/Users/julianogalhardo/Documents/OrderManagementCQRS/src/Infrastructure/OrderManagement.Infrastructure.csproj",
   "expectedPackageFiles": [
+    "/Users/julianogalhardo/.nuget/packages/fluentvalidation/12.1.1/fluentvalidation.12.1.1.nupkg.sha512",
+    "/Users/julianogalhardo/.nuget/packages/fluentvalidation.dependencyinjectionextensions/12.1.1/fluentvalidation.dependencyinjectionextensions.12.1.1.nupkg.sha512",
     "/Users/julianogalhardo/.nuget/packages/mediatr/14.1.0/mediatr.14.1.0.nupkg.sha512",
     "/Users/julianogalhardo/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/Users/julianogalhardo/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.0/microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
