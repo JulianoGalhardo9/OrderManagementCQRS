@@ -2,6 +2,8 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using OrderManagement.Infrastructure.Data;
+using OrderManagement.Domain.Repositories;
+using OrderManagement.Infrastructure.Repositories;
 
 namespace OrderManagement.Infrastructure;
 
@@ -11,6 +13,8 @@ public static class DependencyInjection
     {
         services.AddDbContext<ApplicationDbContext>(options =>
             options.UseSqlServer(configuration.GetConnectionString("DefaultConnection")));
+        
+        services.AddScoped<IOrderRepository, OrderRepository>();
 
         return services;
     }
