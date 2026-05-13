@@ -13,8 +13,10 @@ public static class DependencyInjection
     {
         services.AddDbContext<ApplicationDbContext>(options =>
             options.UseSqlServer(configuration.GetConnectionString("DefaultConnection")));
-        
+
         services.AddScoped<IOrderRepository, OrderRepository>();
+
+        services.AddScoped<IOrderReadRepository, OrderReadRepository>();
 
         return services;
     }
