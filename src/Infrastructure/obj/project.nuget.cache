@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "D2DH7duHvYc=",
+  "dgSpecHash": "nP0+KBv1JF4=",
   "success": true,
   "projectFilePath": "/Users/julianogalhardo/Documents/OrderManagementCQRS/src/Infrastructure/OrderManagement.Infrastructure.csproj",
   "expectedPackageFiles": [
     "/Users/julianogalhardo/.nuget/packages/azure.core/1.38.0/azure.core.1.38.0.nupkg.sha512",
     "/Users/julianogalhardo/.nuget/packages/azure.identity/1.11.4/azure.identity.1.11.4.nupkg.sha512",
+    "/Users/julianogalhardo/.nuget/packages/dapper/2.1.72/dapper.2.1.72.nupkg.sha512",
     "/Users/julianogalhardo/.nuget/packages/fluentvalidation/12.1.1/fluentvalidation.12.1.1.nupkg.sha512",
     "/Users/julianogalhardo/.nuget/packages/fluentvalidation.dependencyinjectionextensions/12.1.1/fluentvalidation.dependencyinjectionextensions.12.1.1.nupkg.sha512",
     "/Users/julianogalhardo/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
