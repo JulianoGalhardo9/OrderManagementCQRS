@@ -4,6 +4,7 @@ using Microsoft.Extensions.DependencyInjection;
 using OrderManagement.Infrastructure.Data;
 using OrderManagement.Domain.Repositories;
 using OrderManagement.Infrastructure.Repositories;
+using OrderManagement.Application.Orders.Queries;
 
 namespace OrderManagement.Infrastructure;
 
