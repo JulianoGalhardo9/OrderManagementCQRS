@@ -184,5 +184,5 @@ Ferramentas utilizadas:
 
 Desenvolvido por **Juliano Galhardo** como parte de estudos aprofundados sobre arquitetura de software e alta performance com .NET.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juliano%20Galhardo-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/julianogalhardo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juliano%20Galhardo-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/julianogalhardo9)
 [![GitHub](https://img.shields.io/badge/GitHub-@julianogalhardo-181717?style=flat&logo=github)](https://github.com/julianogalhardo)
